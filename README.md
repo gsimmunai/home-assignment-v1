@@ -28,7 +28,7 @@ Each experimental entry is of this form:
 
 # Assignment:
 ## Hypothesis:
-**Neurons have a higher response in "In vivo" environments compared to other cell types on average.**<br>
+**If we restrict ourselves to "In vivo" environment, neurons have a higher response compared to other cell types on average.**<br>
 _In vivo: biological term for 'in a living body of an animal'_<br>
 
 You have been designated to share your knowledgeable stance on the hypothesis's validity, deriving insights from real experimental data.<br>
