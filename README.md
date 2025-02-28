@@ -19,7 +19,7 @@ Each experimental entry is of this form:
         "medium": "Blood",
         "temperature": "37°C"
     },
-    "cell_response": 8.5,
+    "cell_response_rate": 8.5,
     "duration": 120,
     "treatment": "Drug A",
     "status": "Completed"
@@ -28,7 +28,7 @@ Each experimental entry is of this form:
 
 # Assignment:
 ## Hypothesis:
-**If we restrict ourselves to "In vivo" environment, neurons have a higher response compared to other cell types on average.**<br>
+**If we restrict ourselves to "In vivo" environment, neurons exhibit a higher average response rate than other cell types.**<br>
 _In vivo: biological term for 'in a living body of an animal'_<br>
 
 You have been designated to share your knowledgeable stance on the hypothesis's validity, deriving insights from real experimental data.<br>
